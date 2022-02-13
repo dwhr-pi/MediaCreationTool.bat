@@ -1,3 +1,6 @@
+Basierd auf Artikel [Computerbild](https://www.computerbild.de/artikel/cb-News-Software-Windows-11-Update-Sperre-fuer-TPM-ist-zurueck-31757645.html)
+
+
 Not just an Universal MediaCreationTool wrapper script with ingenious support for business editions,  
 <img src="preview.png">  
 A powerful yet simple windows 10 / 11 deployment automation tool as well!  
