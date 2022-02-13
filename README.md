@@ -1,5 +1,5 @@
 Basierend auf einen Artikel der [Computerbild](https://www.computerbild.de/artikel/cb-News-Software-Windows-11-Update-Sperre-fuer-TPM-ist-zurueck-31757645.html).  
-Zum Umgehen der Updatefalle auf Microsoft Windows 11 Systemen ohne TPM 2.0 Modul.
+Zum Umgehen der Updatefalle auf Microsoft Windows 11 Systemen ohne TPM 2.0 Modul mit dem Windows-11-Update: Fehler 0x80888002.
 
 Not just an Universal MediaCreationTool wrapper script with ingenious support for business editions,  
 <img src="preview.png">  
