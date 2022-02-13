@@ -1,5 +1,5 @@
-Basierend auf einen Artikel der [Computerbild](https://www.computerbild.de/artikel/cb-News-Software-Windows-11-Update-Sperre-fuer-TPM-ist-zurueck-31757645.html)
-Zum Umgehen der Updatefalle auf Microsoft Windows 11.
+Basierend auf einen Artikel der [Computerbild](https://www.computerbild.de/artikel/cb-News-Software-Windows-11-Update-Sperre-fuer-TPM-ist-zurueck-31757645.html).  
+Zum Umgehen der Updatefalle auf Microsoft Windows 11 Systemen ohne TPM 2.0 Modul.
 
 Not just an Universal MediaCreationTool wrapper script with ingenious support for business editions,  
 <img src="preview.png">  
